@@ -1,1 +1,2 @@
-# Mi primer repositorio curso git y github
+# mi primer readme 
+
